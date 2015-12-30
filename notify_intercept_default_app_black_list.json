@@ -1,0 +1,1613 @@
+{
+    "version": "1",
+    "content": [
+        {
+            "pkg": "com.xiaomi.channel",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 3,
+                    "key": "更多惊喜等你来发现！"
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "05bb386b14163ac45a902f9ffec2aac4",
+                    "size": -7
+                }
+            ]
+        },
+        {
+            "pkg": "com.flightmanager.view",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "b4271f5904531700d13461a45a74c28e",
+                    "size": 10
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "c2fec98e36d33c09e357175e1e2116f6",
+                    "size": 7
+                },
+                {
+                    "id": 3,
+                    "type": 4,
+                    "hcode": "2cc53c7db515756e417c93a4199fb0a7",
+                    "size": 2
+                },
+                {
+                    "id": 4,
+                    "type": 4,
+                    "hcode": "ee394b71043d530c25d141328e768071",
+                    "size": -6
+                },
+                {
+                    "id": 5,
+                    "type": 4,
+                    "hcode": "7bf063e794312a0b9e82ea14f2a97eeb",
+                    "size": 7
+                },
+                {
+                    "id": 6,
+                    "type": 4,
+                    "hcode": "3cd3c5e2f11b8680f5992a092127dda7",
+                    "size": -9
+                },
+                {
+                    "id": 7,
+                    "type": 4,
+                    "hcode": "377cd04bb1388ad3e87361cc68d7b267",
+                    "size": -11
+                }
+            ]
+        },
+        {
+            "pkg": "com.android.providers.calendar",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "4c336b690a50bab294243d3a959aaa20",
+                    "size": 3
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "75dcf65deea3762b4df5d44cda66768e",
+                    "size": 5
+                },
+                {
+                    "id": 3,
+                    "type": 4,
+                    "hcode": "39711152eb79dbc361b144d6955ef261",
+                    "size": 4
+                },
+                {
+                    "id": 4,
+                    "type": 4,
+                    "hcode": "2c3486663853ae70cbe542799eb22996",
+                    "size": 5
+                }
+            ]
+        },
+        {
+            "pkg": "com.asus.calendar",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "39711152eb79dbc361b144d6955ef261",
+                    "size": 4
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "2917b2e1437f9063f6a44290a9a0dd55",
+                    "size": 7
+                }
+            ]
+        },
+        {
+            "pkg": "com.bbk.calendar",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "7581db3dbdb94089bb0445112d8bed37",
+                    "size": 9
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "88e7f3b36a7c59c3dd346029d6285dce",
+                    "size": 6
+                },
+                {
+                    "id": 3,
+                    "type": 4,
+                    "hcode": "2917b2e1437f9063f6a44290a9a0dd55",
+                    "size": 7
+                },
+                {
+                    "id": 4,
+                    "type": 4,
+                    "hcode": "5db865ce241a4a272f7955b895cd77a5",
+                    "size": -14
+                },
+                {
+                    "id": 5,
+                    "type": 4,
+                    "hcode": "39711152eb79dbc361b144d6955ef261",
+                    "size": 4
+                }
+            ]
+        },
+        {
+            "pkg": "com.fineos.calendar",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "2917b2e1437f9063f6a44290a9a0dd55",
+                    "size": 7
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "39711152eb79dbc361b144d6955ef261",
+                    "size": 4
+                },
+                {
+                    "id": 3,
+                    "type": 4,
+                    "hcode": "75dcf65deea3762b4df5d44cda66768e",
+                    "size": 5
+                }
+            ]
+        },
+        {
+            "pkg": "com.lenovo.calendar",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "2917b2e1437f9063f6a44290a9a0dd55",
+                    "size": 7
+                }
+            ]
+        },
+        {
+            "pkg": "com.yulong.android.calendar",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "2917b2e1437f9063f6a44290a9a0dd55",
+                    "size": 7
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "39711152eb79dbc361b144d6955ef261",
+                    "size": 4
+                }
+            ]
+        },
+        {
+            "pkg": "com.cootek.smartdialer",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "786bbb97f6a9e08d77342368cf05e233",
+                    "size": 9
+                },
+                {
+                    "id": 2,
+                    "type": 3,
+                    "key": "免费打电话|电话免费打"
+                }
+            ]
+        },
+        {
+            "pkg": "com.daxiang.niceday",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "b1af3bbf23699ed599f3e8ed76484148",
+                    "size": 10
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "64ab3fbcebea5658beea943ec4896e8a",
+                    "size": 7
+                }
+            ]
+        },
+        {
+            "pkg": "com.haodf.android",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "ed99c4466066a9d83a54ed3ba0055c3e",
+                    "size": 12
+                }
+            ]
+        },
+        {
+            "pkg": "com.immomo.momo",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "977d9b5dacb4f6d056ea229ef3125973",
+                    "size": 13
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "e62364eaf3734bc7f73b28c3797d43d0",
+                    "size": 7
+                },
+                {
+                    "id": 3,
+                    "type": 4,
+                    "hcode": "61c278f93ffc96947148fab6f66f98eb",
+                    "size": 11
+                },
+                {
+                    "id": 4,
+                    "type": 4,
+                    "hcode": "9cf7d34eaa4df961459a090992ad20ff",
+                    "size": 9
+                },
+                {
+                    "id": 5,
+                    "type": 4,
+                    "hcode": "b8bb66d169681f3a24531472e0f67477",
+                    "size": 32
+                },
+                {
+                    "id": 6,
+                    "type": 4,
+                    "hcode": "2f9993fd687c2a44177cdc686f480af2",
+                    "size": 4
+                },
+                {
+                    "id": 7,
+                    "type": 4,
+                    "hcode": "f57e01145809c08c57dfd23df17dcb89",
+                    "size": 14
+                },
+                {
+                    "id": 8,
+                    "type": 4,
+                    "hcode": "977d9b5dacb4f6d056ea229ef3125973",
+                    "size": 13
+                },
+                {
+                    "id": 9,
+                    "type": 4,
+                    "hcode": "67f6b67ab1c84d472540e332e553931e",
+                    "size": 6
+                },
+                {
+                    "id": 10,
+                    "type": 4,
+                    "hcode": "ee2e22126dd5a57575c3f238cb392dcd",
+                    "size": 6
+                },
+                {
+                    "id": 11,
+                    "type": 4,
+                    "hcode": "fbe72803b7fefb2fbfb5558311fcd59d",
+                    "size": 12
+                },
+                {
+                    "id": 12,
+                    "type": 4,
+                    "hcode": "d6a0a61f438d113264ad56a3f6eedcc1",
+                    "size": 10
+                },
+                {
+                    "id": 13,
+                    "type": 4,
+                    "hcode": "58cebe46604509f8bd47318bda922fe3",
+                    "size": 11
+                },
+                {
+                    "id": 14,
+                    "type": 4,
+                    "hcode": "f09591392a54fbb92a4df3a2c360923b",
+                    "size": 14
+                },
+                {
+                    "id": 15,
+                    "type": 4,
+                    "hcode": "9e5701703bdcb907a1c02ad27cd7ac70",
+                    "size": 10
+                },
+                {
+                    "id": 16,
+                    "type": 4,
+                    "hcode": "648f078f2d5c765cc60352c34214f069",
+                    "size": 11
+                },
+                {
+                    "id": 17,
+                    "type": 4,
+                    "hcode": "b6efa996f8d4668ae28d9399b93db675",
+                    "size": 14
+                },
+                {
+                    "id": 18,
+                    "type": 4,
+                    "hcode": "3cf84c89335402d8bd5f60c3d34ad4af",
+                    "size": 39
+                },
+                {
+                    "id": 19,
+                    "type": 4,
+                    "hcode": "6849689866fe5c5fcbd525d050f5a03e",
+                    "size": 28
+                },
+                {
+                    "id": 20,
+                    "type": 4,
+                    "hcode": "d0e459a6f32dc2d0f406bc0d3327da22",
+                    "size": 5
+                },
+                {
+                    "id": 21,
+                    "type": 4,
+                    "hcode": "273114e3b367a3a1c0196d1d004b9ce8",
+                    "size": 11
+                },
+                {
+                    "id": 22,
+                    "type": 4,
+                    "hcode": "e7d5f6a073933cfa6f67f405afd8128f",
+                    "size": 11
+                },
+                {
+                    "id": 23,
+                    "type": 4,
+                    "hcode": "8b10b3bdd9537c23805a46859af5906e",
+                    "size": 7
+                },
+                {
+                    "id": 24,
+                    "type": 4,
+                    "hcode": "054c2260f9ce7e701cbe709324432369",
+                    "size": 12
+                },
+                {
+                    "id": 25,
+                    "type": 4,
+                    "hcode": "7c2b367ffdf3e6bb501521af5a649f05",
+                    "size": 14
+                },
+                {
+                    "id": 26,
+                    "type": 4,
+                    "hcode": "f8d0a86d99b903aab7b39be8e5575780",
+                    "size": 13
+                },
+                {
+                    "id": 27,
+                    "type": 4,
+                    "hcode": "584e5d06f1a6a632ae317352635ead54",
+                    "size": 10
+                },
+                {
+                    "id": 28,
+                    "type": 4,
+                    "hcode": "ea515e52a08833961ddcd2a011c4cafa",
+                    "size": 9
+                },
+                {
+                    "id": 29,
+                    "type": 4,
+                    "hcode": "7c0bc619f69a53adfa3f9c0543ddb660",
+                    "size": 13
+                },
+                {
+                    "id": 30,
+                    "type": 4,
+                    "hcode": "44949d062dfe10d009a08e42f7c8c0fd",
+                    "size": -6
+                },
+                {
+                    "id": 31,
+                    "type": 4,
+                    "hcode": "f6cf3e8e02e72f50c724af8c5282d240",
+                    "size": 13
+                },
+                {
+                    "id": 32,
+                    "type": 4,
+                    "hcode": "0e286d037a941acb16c0c3b70e61b08b",
+                    "size": -8
+                },
+                {
+                    "id": 33,
+                    "type": 4,
+                    "hcode": "6bad7a3716ef618324991757875fd19e",
+                    "size": 13
+                },
+                {
+                    "id": 34,
+                    "type": 4,
+                    "hcode": "027464a4d073ca3de616f5a2e0b636fb",
+                    "size": 18
+                },
+                {
+                    "id": 35,
+                    "type": 4,
+                    "hcode": "65462f0746d08f5a26cef04441987e5c",
+                    "size": 39
+                },
+                {
+                    "id": 36,
+                    "type": 4,
+                    "hcode": "060adb8c53a8cbb8fb782783bb9f11f1",
+                    "size": -32
+                },
+                {
+                    "id": 37,
+                    "type": 4,
+                    "hcode": "dfdd3aea95455232fb0cfa97ac9c7c01",
+                    "size": 12
+                },
+                {
+                    "id": 38,
+                    "type": 4,
+                    "hcode": "fc08dfee1ad9f190d0fc6471237e8465",
+                    "size": 38
+                },
+                {
+                    "id": 39,
+                    "type": 4,
+                    "hcode": "71a72842d31df9e7372596aaa58bd82d",
+                    "size": 12
+                },
+                {
+                    "id": 40,
+                    "type": 4,
+                    "hcode": "b54f5ff966f421dff6e3b3e665c583ae",
+                    "size": -12
+                },
+                {
+                    "id": 41,
+                    "type": 4,
+                    "hcode": "dcb037d7d6a742d9e972feb1b4ade838",
+                    "size": 15
+                },
+                {
+                    "id": 42,
+                    "type": 4,
+                    "hcode": "0ee023f706532b1a5a78038b7f54065e",
+                    "size": 14
+                },
+                {
+                    "id": 43,
+                    "type": 4,
+                    "hcode": "11a091472071e878ea475638e049c063",
+                    "size": -11
+                },
+                {
+                    "id": 44,
+                    "type": 4,
+                    "hcode": "caf334248ebfaf970041e3d8790bd11a",
+                    "size": 13
+                },
+                {
+                    "id": 45,
+                    "type": 4,
+                    "hcode": "bf30d0a405c47b0c966ff73a1a1f306f",
+                    "size": -13
+                },
+                {
+                    "id": 46,
+                    "type": 4,
+                    "hcode": "e040f54c7c87cad8321f0229643fcef3",
+                    "size": 13
+                },
+                {
+                    "id": 47,
+                    "type": 4,
+                    "hcode": "3dcf91028b9948255ef6468644e04612",
+                    "size": 14
+                },
+                {
+                    "id": 48,
+                    "type": 4,
+                    "hcode": "5cd9c6463ab7d49101e5fc56b7c596e3",
+                    "size": 13
+                },
+                {
+                    "id": 49,
+                    "type": 4,
+                    "hcode": "24d59523ff578730d646dfc000d64141",
+                    "size": 10
+                },
+                {
+                    "id": 50,
+                    "type": 4,
+                    "hcode": "1714d9c61de077770e219be0301ee2f0",
+                    "size": 29
+                },
+                {
+                    "id": 51,
+                    "type": 4,
+                    "hcode": "e2d96576bc7376dcc04a448072262603",
+                    "size": -14
+                },
+                {
+                    "id": 52,
+                    "type": 4,
+                    "hcode": "5c443860ce5452026928a35f3a9b4c44",
+                    "size": 11
+                },
+                {
+                    "id": 53,
+                    "type": 4,
+                    "hcode": "143af583e3a89a0c9c90baad856edc90",
+                    "size": 6
+                }
+            ]
+        },
+        {
+            "pkg": "im.yixin",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "299aea900773d3a2a42281e6763a7c77",
+                    "size": 4
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "41b8ac2b2a331705a8d5e7cc3c1abf33",
+                    "size": 6
+                },
+                {
+                    "id": 3,
+                    "type": 4,
+                    "hcode": "36fe889c712dd0aba2bea86050ab90e7",
+                    "size": 4
+                },
+                {
+                    "id": 4,
+                    "type": 4,
+                    "hcode": "5dd7c837ff90b53db0811e0a0e722a49",
+                    "size": 4
+                },
+                {
+                    "id": 5,
+                    "type": 4,
+                    "hcode": "be662d5d3c5c7a018dcdaa682b91e0c4",
+                    "size": 7
+                },
+                {
+                    "id": 6,
+                    "type": 4,
+                    "hcode": "af171acc8248c444729a8d6c6cca4125",
+                    "size": 3
+                },
+                {
+                    "id": 7,
+                    "type": 4,
+                    "hcode": "a97911b89a6be85d8cb9ed4cba909d95",
+                    "size": 6
+                }
+            ]
+        },
+        {
+            "pkg": "com.tencent.mm",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 3,
+                    "key": "腾讯新闻|微信游戏"
+                }
+            ]
+        },
+        {
+            "pkg": "com.wangzhi.MaMaHelp",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "c0c3115e63ea68db9a9848ede5d8b71b",
+                    "size": 21
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "b9b7ea2e24281307b783262668d9d7a4",
+                    "size": 16
+                },
+                {
+                    "id": 3,
+                    "type": 4,
+                    "hcode": "17493e82707359844212368baed7f868",
+                    "size": 15
+                },
+                {
+                    "id": 4,
+                    "type": 4,
+                    "hcode": "3b65d1694d9983106482c56b4ee21514",
+                    "size": 16
+                },
+                {
+                    "id": 5,
+                    "type": 4,
+                    "hcode": "4509ca98a40f8eda40b338f6810a80e4",
+                    "size": 11
+                },
+                {
+                    "id": 6,
+                    "type": 4,
+                    "hcode": "c90299447058418b5fdd72998e0bb29c",
+                    "size": 17
+                },
+                {
+                    "id": 7,
+                    "type": 4,
+                    "hcode": "c90138f1c34214adec009f9c8a750978",
+                    "size": 17
+                },
+                {
+                    "id": 8,
+                    "type": 4,
+                    "hcode": "223c14728f590631735a24297ab386c6",
+                    "size": 3
+                },
+                {
+                    "id": 9,
+                    "type": 4,
+                    "hcode": "3dc43c3dce8c4e5e32b1023b949de3ba",
+                    "size": 4
+                },
+                {
+                    "id": 10,
+                    "type": 4,
+                    "hcode": "de6aaef8c64cfa0ac21d36260ca19e53",
+                    "size": 18
+                },
+                {
+                    "id": 11,
+                    "type": 4,
+                    "hcode": "e8aa8ca7a57904b6f9c503a5d51988f9",
+                    "size": 15
+                },
+                {
+                    "id": 12,
+                    "type": 4,
+                    "hcode": "375f46bbe2cb661df5d7077e9294f24f",
+                    "size": 20
+                },
+                {
+                    "id": 13,
+                    "type": 4,
+                    "hcode": "5fcc94aae8498046f7811920b41f9b23",
+                    "size": -8
+                },
+                {
+                    "id": 14,
+                    "type": 4,
+                    "hcode": "a98ca561c90bdfc2458c7a6cee7d9698",
+                    "size": 15
+                },
+                {
+                    "id": 15,
+                    "type": 4,
+                    "hcode": "98c80f0ab890dc6f948d2a7408f305a7",
+                    "size": 9
+                },
+                {
+                    "id": 16,
+                    "type": 4,
+                    "hcode": "510843cefefdf405fa071325d4f0352d",
+                    "size": 12
+                },
+                {
+                    "id": 17,
+                    "type": 4,
+                    "hcode": "f1f17f46c2c42b731733fb5bfff8595c",
+                    "size": 19
+                },
+                {
+                    "id": 18,
+                    "type": 4,
+                    "hcode": "1591ec78b419d0faa10377ff4734b938",
+                    "size": 16
+                },
+                {
+                    "id": 19,
+                    "type": 4,
+                    "hcode": "daebf58005baaedd070da4a1552e7d8e",
+                    "size": -5
+                },
+                {
+                    "id": 20,
+                    "type": 4,
+                    "hcode": "527c5e9e26492bd76b5b24d2b41a4678",
+                    "size": 17
+                },
+                {
+                    "id": 21,
+                    "type": 4,
+                    "hcode": "ffc37d530a05797f02fb4ddba35aef7e",
+                    "size": 9
+                },
+                {
+                    "id": 22,
+                    "type": 4,
+                    "hcode": "2c2aaa3cddd1cdded835f11d985755aa",
+                    "size": 15
+                },
+                {
+                    "id": 23,
+                    "type": 4,
+                    "hcode": "afd3cddfa62ecbcdcac3bd56c0fd7433",
+                    "size": 4
+                },
+                {
+                    "id": 24,
+                    "type": 4,
+                    "hcode": "1a98c6eba55231f13dd180491b0110e2",
+                    "size": 5
+                },
+                {
+                    "id": 25,
+                    "type": 4,
+                    "hcode": "ffb8cf389a64e7a84d991bdd5b5902c3",
+                    "size": 5
+                },
+                {
+                    "id": 26,
+                    "type": 4,
+                    "hcode": "a382513f3db59961cfaa767af5eb403b",
+                    "size": 15
+                },
+                {
+                    "id": 27,
+                    "type": 4,
+                    "hcode": "7b55f1321cd546f9869543d7306d6403",
+                    "size": 14
+                },
+                {
+                    "id": 28,
+                    "type": 4,
+                    "hcode": "55f6c816c3d720e02a46279b8482f260",
+                    "size": 15
+                }
+            ]
+        },
+        {
+            "pkg": "com.ifreetalk.ftalk",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "93dfa82f85af222e1136b0032c03509f",
+                    "size": 5
+                }
+            ]
+        },
+        {
+            "pkg": "com.yunlian.wewe",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "aae3f741ddc95caec44587dac7060600",
+                    "size": 4
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "83513755011adde03875ad76efe97328",
+                    "size": 5
+                },
+                {
+                    "id": 3,
+                    "type": 4,
+                    "hcode": "762a5dc23e078ace21fd411452731cea",
+                    "size": 7
+                },
+                {
+                    "id": 4,
+                    "type": 4,
+                    "hcode": "65654cac44d2952e64aca49e157b33c0",
+                    "size": 31
+                },
+                {
+                    "id": 5,
+                    "type": 4,
+                    "hcode": "52d9c07e8c952f5880ed2238b8c7ebd8",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "pkg": "com.baihe",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "55cbe4bb38d81499471bfbe29dd017e9",
+                    "size": 6
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "0c6ffe83359d53137d1b298f1264104d",
+                    "size": -5
+                },
+                {
+                    "id": 3,
+                    "type": 4,
+                    "hcode": "32232aa72f53ba9632a91cf9be5f8461",
+                    "size": -10
+                }
+            ]
+        },
+        {
+            "pkg": "com.duowan.mobile",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "8712984588240d61645c1c685f7d1552",
+                    "size": -4
+                }
+            ]
+        },
+        {
+            "pkg": "com.blovestorm",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "df3b75f3c771647305e6d6ec1a4a26de",
+                    "size": 16
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "8095fe31ca41cc81924daeac801d899e",
+                    "size": 6
+                }
+            ]
+        },
+        {
+            "pkg": "com.hcg.cok.baidu",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "e854e829a54ffe5310425decce7e3201",
+                    "size": 8
+                },
+                {
+                    "id": 2,
+                    "type": 3,
+                    "key": "领主大人"
+                }
+            ]
+        },
+        {
+            "pkg": "com.hcg.cok.cn360",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "e854e829a54ffe5310425decce7e3201",
+                    "size": 8
+                },
+                {
+                    "id": 2,
+                    "type": 3,
+                    "key": "领主大人"
+                }
+            ]
+        },
+        {
+            "pkg": "com.hcg.cok.uc",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "e854e829a54ffe5310425decce7e3201",
+                    "size": 8
+                },
+                {
+                    "id": 2,
+                    "type": 3,
+                    "key": "领主大人"
+                }
+            ]
+        },
+        {
+            "pkg": "com.hcg.cok.wdj",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "e854e829a54ffe5310425decce7e3201",
+                    "size": 8
+                },
+                {
+                    "id": 2,
+                    "type": 3,
+                    "key": "领主大人"
+                }
+            ]
+        },
+        {
+            "pkg": "com.tencent.tmgp.cokqq",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "e854e829a54ffe5310425decce7e3201",
+                    "size": 8
+                },
+                {
+                    "id": 2,
+                    "type": 3,
+                    "key": "领主大人"
+                }
+            ]
+        },
+        {
+            "pkg": "com.hcg.cok.cn1",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "e854e829a54ffe5310425decce7e3201",
+                    "size": 8
+                },
+                {
+                    "id": 2,
+                    "type": 3,
+                    "key": "领主大人"
+                }
+            ]
+        },
+        {
+            "pkg": "com.hcg.cok.mihy",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "e854e829a54ffe5310425decce7e3201",
+                    "size": 8
+                },
+                {
+                    "id": 2,
+                    "type": 3,
+                    "key": "领主大人"
+                }
+            ]
+        },
+        {
+            "pkg": "com.hcg.cok.ewan",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "e854e829a54ffe5310425decce7e3201",
+                    "size": 8
+                },
+                {
+                    "id": 2,
+                    "type": 3,
+                    "key": "领主大人"
+                }
+            ]
+        },
+        {
+            "pkg": "com.android.settings",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "e8602c3af0c352c5ab1678a590fc9afb",
+                    "size": -4
+                }
+            ]
+        },
+        {
+            "pkg": "com.sg.sledog",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 3,
+                    "key": "冲浪助手"
+                }
+            ]
+        },
+        {
+            "pkg": "com.yx",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "31b9e12d0c7590feb564060389dadcf4",
+                    "size": 8
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "30ca31b7310c453400ae2b186e833199",
+                    "size": 13
+                },
+                {
+                    "id": 3,
+                    "type": 4,
+                    "hcode": "185132ea5389d69b49fb6b76ed07ace2",
+                    "size": 10
+                },
+                {
+                    "id": 4,
+                    "type": 4,
+                    "hcode": "ed2d447fc74a0863886b522ebb4b4b27",
+                    "size": 9
+                },
+                {
+                    "id": 5,
+                    "type": 4,
+                    "hcode": "92bfeae849ba95db4e7c9304d74708d3",
+                    "size": 8
+                },
+                {
+                    "id": 6,
+                    "type": 4,
+                    "hcode": "218f5387632b61d157c9eebfdc1cf55d",
+                    "size": 23
+                },
+                {
+                    "id": 7,
+                    "type": 4,
+                    "hcode": "b04a6f3e81413eadd4a6d19687f68404",
+                    "size": 11
+                },
+                {
+                    "id": 8,
+                    "type": 4,
+                    "hcode": "ea9f7b6c7d0083618719bafc212dd5b7",
+                    "size": 12
+                },
+                {
+                    "id": 9,
+                    "type": 4,
+                    "hcode": "9937136931ab4d1eedb972bed678de05",
+                    "size": -13
+                },
+                {
+                    "id": 10,
+                    "type": 4,
+                    "hcode": "c849628f56c2116a9ae64ca2c0d5874a",
+                    "size": 8
+                },
+                {
+                    "id": 11,
+                    "type": 4,
+                    "hcode": "6d505a0212b7af7f8d3cac560256f368",
+                    "size": -10
+                },
+                {
+                    "id": 12,
+                    "type": 4,
+                    "hcode": "10ea6d3d1ceefb437fe5326b69b0b766",
+                    "size": 5
+                },
+                {
+                    "id": 13,
+                    "type": 4,
+                    "hcode": "9fdab38b9087e774a2ece7eda60e2106",
+                    "size": 15
+                },
+                {
+                    "id": 14,
+                    "type": 4,
+                    "hcode": "6f41f80dd31a8fe3fe38fc2550b25d13",
+                    "size": 13
+                },
+                {
+                    "id": 15,
+                    "type": 4,
+                    "hcode": "d054329c0d38449af427a48c04ab25f8",
+                    "size": -4
+                },
+                {
+                    "id": 16,
+                    "type": 4,
+                    "hcode": "714574c9effdff6c558545d9e15126a3",
+                    "size": 12
+                },
+                {
+                    "id": 17,
+                    "type": 4,
+                    "hcode": "3b6648466a767b6c3f7c26563910f40b",
+                    "size": 6
+                }
+            ]
+        },
+        {
+            "pkg": "com.renren.mini.android",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "fe74d42c2fc6cfef0099a5f58658bb50",
+                    "size": 8
+                },
+                {
+                    "id": 2,
+                    "type": 3,
+                    "key": "我已经接受了你的申请，现在开始对话吧"
+                }
+            ]
+        },
+        {
+            "pkg": "com.nd.desktopcontacts",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "78f2095fbf7e7258bff8e4c586a62a1b",
+                    "size": 5
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "fc227d289bb0d590396705cc829b4050",
+                    "size": 4
+                },
+                {
+                    "id": 3,
+                    "type": 4,
+                    "hcode": "42158fcbf1f5fc00302d0748927e7237",
+                    "size": 10
+                },
+                {
+                    "id": 4,
+                    "type": 4,
+                    "hcode": "0bcef9c45bd8a48eda1b26eb0c61c869",
+                    "size": -1
+                }
+            ]
+        },
+        {
+            "pkg": "com.calendar.UI",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "b99eee990ed7c5cc22f29088641fd461",
+                    "size": 6
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "c6047590b1f28d4e9f1dffc337070d63",
+                    "size": 6
+                },
+                {
+                    "id": 3,
+                    "type": 4,
+                    "hcode": "b51b8e909a0e3a818a71c6019fd547fa",
+                    "size": 10
+                },
+                {
+                    "id": 4,
+                    "type": 4,
+                    "hcode": "6a914aa3f41ac21c97060beb10272746",
+                    "size": 16
+                },
+                {
+                    "id": 5,
+                    "type": 4,
+                    "hcode": "0bcef9c45bd8a48eda1b26eb0c61c869",
+                    "size": -1
+                },
+                {
+                    "id": 6,
+                    "type": 4,
+                    "hcode": "4e8e75cf5969d69d8bf3e31a59950a32",
+                    "size": 15
+                },
+                {
+                    "id": 7,
+                    "type": 4,
+                    "hcode": "5b8f88b393be01180af8614d9641b368",
+                    "size": 7
+                },
+                {
+                    "id": 8,
+                    "type": 4,
+                    "hcode": "bb2f83b6f8bf36217c52d9f2a880cfaf",
+                    "size": 11
+                }
+            ]
+        },
+        {
+            "pkg": "com.dns.umpay",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "78f2095fbf7e7258bff8e4c586a62a1b",
+                    "size": 5
+                }
+            ]
+        },
+        {
+            "pkg": "protect.eye",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "3355cd9d7349eb3ed837a9f687d7e997",
+                    "size": 3
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "3d0daa8b62f2e910f493b044ee9e9ca3",
+                    "size": 5
+                },
+                {
+                    "id": 3,
+                    "type": 4,
+                    "hcode": "367ef9c2e5682db0c735d2f4a3fe3545",
+                    "size": 4
+                },
+                {
+                    "id": 4,
+                    "type": 4,
+                    "hcode": "04c538280d158233ba80f292cd4ae2e3",
+                    "size": 4
+                },
+                {
+                    "id": 5,
+                    "type": 4,
+                    "hcode": "a17e913f5a65061ff11ab55f62e66dc8",
+                    "size": 3
+                },
+                {
+                    "id": 6,
+                    "type": 4,
+                    "hcode": "42b3dfa494ec91211e00b47b2ccec10f",
+                    "size": 3
+                },
+                {
+                    "id": 7,
+                    "type": 4,
+                    "hcode": "2db0c4049927f9c494a2a75e7726eaba",
+                    "size": 5
+                },
+                {
+                    "id": 8,
+                    "type": 4,
+                    "hcode": "355f2ed97c13eef62e8342648196ae26",
+                    "size": 5
+                }
+            ]
+        },
+        {
+            "pkg": "cn.bluecrane.calendar",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "785ccc72b3add059f3059f2d25bfabbd",
+                    "size": -10
+                }
+            ]
+        },
+        {
+            "pkg": "cn.etouch.ecalendar",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "2282b7ae775e4e5aa1f72ad7a29d625a",
+                    "size": 6
+                }
+            ]
+        },
+        {
+            "pkg": "com.taobao.fleamarket",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "3e6837a466f2e038a42e21d9913fc485",
+                    "size": 22
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "691cfea3961d13806460d7fd44953019",
+                    "size": 20
+                },
+                {
+                    "id": 3,
+                    "type": 4,
+                    "hcode": "e7ad90ce40f6a47267625ce02542d0c5",
+                    "size": 28
+                },
+                {
+                    "id": 4,
+                    "type": 4,
+                    "hcode": "854bd97f2f700f001cd3c865083eb4fe",
+                    "size": 14
+                },
+                {
+                    "id": 5,
+                    "type": 4,
+                    "hcode": "5726c01c1724ae1ec1a3c83df6a67f0a",
+                    "size": -12
+                },
+                {
+                    "id": 6,
+                    "type": 4,
+                    "hcode": "fa2994f826d64977ac6e481ed3a2af6c",
+                    "size": 22
+                },
+                {
+                    "id": 7,
+                    "type": 4,
+                    "hcode": "bfcde861cad0e9dd8162b0b6a4736f30",
+                    "size": 26
+                },
+                {
+                    "id": 8,
+                    "type": 4,
+                    "hcode": "2b4a5d3f40f5fb2d7bc47d5af36570e6",
+                    "size": 32
+                },
+                {
+                    "id": 9,
+                    "type": 4,
+                    "hcode": "2ad8e1b2bc4c6529b72cafb416a6872e",
+                    "size": 17
+                }
+            ]
+        },
+        {
+            "pkg": "com.dotools.clock",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "b3b3e9742121dc89de10cbd1398ba86d",
+                    "size": 4
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "e4090eb70c2d57fd6f825907ea168fc0",
+                    "size": 4
+                },
+                {
+                    "id": 3,
+                    "type": 4,
+                    "hcode": "65675e0d6fccc66cbbf47bdbdb80a886",
+                    "size": 3
+                },
+                {
+                    "id": 4,
+                    "type": 4,
+                    "hcode": "575981e1b26c59b735d7d367df75e076",
+                    "size": 6
+                },
+                {
+                    "id": 5,
+                    "type": 4,
+                    "hcode": "b1af3bbf23699ed599f3e8ed76484148",
+                    "size": 10
+                },
+                {
+                    "id": 6,
+                    "type": 4,
+                    "hcode": "0f1cc1be5cf46c26ed9f9fc9d37ab425",
+                    "size": 3
+                },
+                {
+                    "id": 7,
+                    "type": 4,
+                    "hcode": "c08039da69af586cf3bf0ec68a64db09",
+                    "size": 4
+                },
+                {
+                    "id": 8,
+                    "type": 4,
+                    "hcode": "0bcef9c45bd8a48eda1b26eb0c61c869",
+                    "size": -1
+                },
+                {
+                    "id": 9,
+                    "type": 4,
+                    "hcode": "3c597a7f8c8db59720657afb587111dd",
+                    "size": 5
+                }
+            ]
+        },
+        {
+            "pkg": "com.yy.yymeet",
+            "rule": [
+                {
+                    "id": 1,
+                    "type": 4,
+                    "hcode": "7f2ed93fa90f6b4d10ff94deebe1de53",
+                    "size": 11
+                },
+                {
+                    "id": 2,
+                    "type": 4,
+                    "hcode": "f778ffdd08b84bdc7ed6dea3bb3fc2b1",
+                    "size": 5
+                },
+                {
+                    "id": 3,
+                    "type": 4,
+                    "hcode": "7ab53df0f2336b780cc68ed2b8e1dde9",
+                    "size": 18
+                },
+                {
+                    "id": 4,
+                    "type": 4,
+                    "hcode": "6074bcef20c7f3d5589bc5ca2ed90e8c",
+                    "size": 15
+                },
+                {
+                    "id": 5,
+                    "type": 4,
+                    "hcode": "8142cd0b1af1ea8f0fc099ba5c038b85",
+                    "size": 16
+                },
+                {
+                    "id": 6,
+                    "type": 4,
+                    "hcode": "5b4e31f9fdff3a952fc5edaae75bd2e3",
+                    "size": 19
+                },
+                {
+                    "id": 7,
+                    "type": 4,
+                    "hcode": "e25145283922a079b7802194f65d3f52",
+                    "size": 5
+                },
+                {
+                    "id": 8,
+                    "type": 4,
+                    "hcode": "634a492362628d4db27f606ba270054c",
+                    "size": 6
+                },
+                {
+                    "id": 9,
+                    "type": 4,
+                    "hcode": "e61bc917f16b4ef5020d15393509c9e3",
+                    "size": 15
+                },
+                {
+                    "id": 10,
+                    "type": 4,
+                    "hcode": "cbda7c0710edab9ba4a766de62540cde",
+                    "size": 38
+                },
+                {
+                    "id": 11,
+                    "type": 4,
+                    "hcode": "e9fcfc919085d1521fde02ad5bfc1837",
+                    "size": 16
+                },
+                {
+                    "id": 12,
+                    "type": 4,
+                    "hcode": "aef6f26202cef85089cd1322a4ab3da5",
+                    "size": 10
+                },
+                {
+                    "id": 13,
+                    "type": 4,
+                    "hcode": "d6e8c35bb19bf54990e9f9bd590b40bf",
+                    "size": 8
+                },
+                {
+                    "id": 14,
+                    "type": 4,
+                    "hcode": "e49dad90486d065337804628bee4d5da",
+                    "size": 59
+                },
+                {
+                    "id": 15,
+                    "type": 4,
+                    "hcode": "52ae716e02404088f1388f059a4b17d7",
+                    "size": 53
+                },
+                {
+                    "id": 16,
+                    "type": 4,
+                    "hcode": "e75e8f8f865edf4812335554b4fcdd22",
+                    "size": 38
+                },
+                {
+                    "id": 17,
+                    "type": 4,
+                    "hcode": "18f13f2e2fb15b34acc3f7a040df7426",
+                    "size": 20
+                },
+                {
+                    "id": 18,
+                    "type": 4,
+                    "hcode": "b8685f648af653843b2d063360259882",
+                    "size": 6
+                },
+                {
+                    "id": 19,
+                    "type": 4,
+                    "hcode": "44a80ee27b675d086cd00ec438ef4cbc",
+                    "size": 5
+                },
+                {
+                    "id": 20,
+                    "type": 4,
+                    "hcode": "65e200d30c86a93c46dcafaa151028f5",
+                    "size": 4
+                },
+                {
+                    "id": 21,
+                    "type": 4,
+                    "hcode": "8574255354470b33d9713580653caf8e",
+                    "size": 5
+                },
+                {
+                    "id": 22,
+                    "type": 4,
+                    "hcode": "bf0a8ebe2afaab8d0f47a55deb1125f5",
+                    "size": 16
+                },
+                {
+                    "id": 23,
+                    "type": 4,
+                    "hcode": "0299567c3110021d0b4c272f2b4c511e",
+                    "size": 11
+                },
+                {
+                    "id": 24,
+                    "type": 4,
+                    "hcode": "1009a4236d4189a6c3066fd11f6f1c71",
+                    "size": 4
+                },
+                {
+                    "id": 25,
+                    "type": 4,
+                    "hcode": "164152896636a195f43bdd2a7d9f6f31",
+                    "size": 11
+                },
+                {
+                    "id": 26,
+                    "type": 4,
+                    "hcode": "65f90f387cac76555b0ec5ad1609f0f1",
+                    "size": 5
+                }
+            ]
+        }
+    ]
+}
